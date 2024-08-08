@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me **wernerjvanrensburg15@gmail.com**
+- 📫 How to reach me **werner.jvr.work@gmail.com**
 
 - ⚡ Fun fact **I am a beginner runner**
 
