@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Covid App**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
