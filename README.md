@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Werner Janse van Rensburg</h1>
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=werriess&label=Profile%20views&color=0e75b6&style=flat" alt="werriess" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=werriess&theme=onedark)](https://github.com/werries/github-profile-trophy)
 
 https://github-profile-trophy.vercel.app/?username=werriess&theme=onedark
 
