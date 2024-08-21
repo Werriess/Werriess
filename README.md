@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=werriess&label=Profile%20views&color=0e75b6&style=flat" alt="werriess" /> </p>
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=werriess" alt="werriess" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk)
+https://github-profile-trophy.vercel.app/?username=werriess&theme=onedark
 
 - 🔭 I’m currently working on a **Covid App**
 
