@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Werner Janse van Rensburg</h1>
-<h3 align="center">A passionate Software Engineer from South Africa</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=werriess&theme=gruvbox)](https://github.com/werries/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=werriess&theme=nord)](https://github.com/werries/github-profile-trophy)
 
 - 🔭 I’m currently working on a **Covid App**
 
