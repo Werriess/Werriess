@@ -3,8 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=werriess&theme=onedark)](https://github.com/werries/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=werriess&theme=onedark
-
 - 🔭 I’m currently working on a **Covid App**
 
 - 🌱 I’m currently learning **Java**
