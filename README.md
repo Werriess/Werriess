@@ -20,7 +20,7 @@
 </p>
 
 <p>Languages and tools:</p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,figma,java,mysql,nodejs,npm,postman,py,react,regex,sklearn,tensorflow,threejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,figma,java,mysql,nodejs,npm,postman,py,react,regex,sklearn,tensorflow,threejs,git)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werriess&" alt="werriess" /></p>
 
