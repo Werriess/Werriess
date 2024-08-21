@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I am a beginner runner**
 
-![Werner's GitHub stats](https://github-readme-stats.vercel.app/api?username=werriess&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werriess&" alt="werriess" /></p>
 
 <p>Languages and tools:</p>
