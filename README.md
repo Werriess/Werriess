@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me **werner.jvr.work@gmail.com**
+- 📫 How to reach me [EMAIL](mailto:your.email@example.com)
+
 
 - ⚡ Fun fact **I am a beginner runner**
 
