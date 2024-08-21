@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werriess&" alt="werriess" /></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,figma,java,mysql,nodejs,npm,postman,py,react,regex,sklearn,tensorflow,threejs,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,figma,java,mysql,nodejs,npm,postman,py,anaconda,tensorflow,react,regex,sklearn,threejs,git,bash,arduino,blender,discord,github,gmail,idea,linkedin,mongodb.visualstudio,vscode" />
   </a>
 </p>
 
