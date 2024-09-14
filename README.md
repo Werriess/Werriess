@@ -3,9 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=werriess&theme=nord)](https://github.com/werries/github-profile-trophy)
 
-- 🔭 I’m currently working on a **Covid App**
+- 🔭 I’m currently working on a **Algorithm Visualization App**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Typescript//Tailwindcss**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
