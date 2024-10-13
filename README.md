@@ -3,9 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=werriess&theme=nord)](https://github.com/werries/github-profile-trophy)
 
-- 🔭 I’m currently working on a **Snakes and Ladders Multiplayer App**
+- 🔭 I’m currently working on **Ripple, my chat application**
 
-- 🌱 I’m currently learning **Socket.IO**
+- 🌱 I’m currently learning **Socket.IO and Nextjs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
