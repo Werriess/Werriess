@@ -12,7 +12,7 @@
 - 📫 How to reach me [EMAIL](mailto:werner.jvr.work@gmail.com)
 
 
-- ⚡ Fun fact **I am a beginner runner**
+- ⚡ Fun fact- **I am a beginner runner**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werriess&" alt="werriess" /></p>
 
