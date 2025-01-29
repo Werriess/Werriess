@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact- **I am a beginner runner**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werriess&" alt="werriess" /></p>
-
 <p>Languages and tools:</p>
 <p align="center">
   <a href="https://skillicons.dev">
